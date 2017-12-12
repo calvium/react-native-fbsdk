@@ -1,3 +1,5 @@
+NOTE: Commit #ef33b884b88f4a9a09282d20fe2b091c0bc35b5c make the library compatible with RN 0.47+
+
 # React Native FBSDK
 React Native FBSDK is a wrapper around the iOS Facebook SDK and Android Facebook SDK, allowing for Facebook integration in [React Native](https://facebook.github.io/react-native/) apps. Access to native components, from login to sharing, is provided entirely through documented JavaScript modules so you don't have to call a single native function directly.
 
